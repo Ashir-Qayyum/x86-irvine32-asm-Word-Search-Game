@@ -40,6 +40,7 @@ Players are presented with a main menu and can play through three levels of incr
 A clean repository is essential. This is the recommended file structure.
 
 ├── Project1.sln                  # Visual Studio Solution file (opens the project)<br>
+├── Project Report.pdf            # Detailed Project Report<br>
 ├── Project1/<br>
 │   ├── Project1.vcxproj          # Visual Studio Project file (build settings)<br>
 │   ├── Project1.vcxproj.filters  # VS file filters<br>
