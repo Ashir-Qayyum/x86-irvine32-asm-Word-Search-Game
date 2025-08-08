@@ -1,0 +1,21 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.[Cc]ache
+*.VC.db
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# Executables and debug files
+*.exe
+*.pdb
+*.ilk
+*.aps

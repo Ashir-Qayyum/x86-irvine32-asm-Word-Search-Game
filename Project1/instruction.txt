@@ -1,0 +1,13 @@
+1- which option you want to perform you 
+have to chose from menu.
+2-In Quick play you have shown the maze
+if you found any word in maze then enter
+this word and  press enter key.
+3-if your answer is correct then your
+score increment by 1 else your lives 
+decrement by 1.
+4-Enter your choice in Digit and press
+enter key.
+5-If you want change the color of console
+select the setting and then goto change color
+and select your color and press enter key.
