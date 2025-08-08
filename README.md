@@ -39,20 +39,20 @@ Players are presented with a main menu and can play through three levels of incr
 
 A clean repository is essential. This is the recommended file structure.
 
-├── Project1.sln                  # Visual Studio Solution file (opens the project)
-├── Project1/
-│   ├── Project1.vcxproj          # Visual Studio Project file (build settings)
-│   ├── Project1.vcxproj.filters  # VS file filters
-│   ├── Text.asm                  # The main assembly source code!
-│   ├── level1.txt                # Data for level 1
-│   ├── level2.txt                # Data for level 2
-│   ├── level3.txt                # Data for level 3
-│   ├── instruction.txt           # The help/instructions text
-│   └── high_score.txt            # Stores the persistent high score
-├── screenshots/
-│   ├── menu.png                  # Screenshot of the main menu
-│   └── gameplay.png              # Screenshot of a level in progress
-└── README.md                     # You're reading it!```
+├── Project1.sln                  # Visual Studio Solution file (opens the project)<br>
+├── Project1/<br>
+│   ├── Project1.vcxproj          # Visual Studio Project file (build settings)<br>
+│   ├── Project1.vcxproj.filters  # VS file filters<br>
+│   ├── Text.asm                  # The main assembly source code!<br>
+│   ├── level1.txt                # Data for level 1<br>
+│   ├── level2.txt                # Data for level 2<br>
+│   ├── level3.txt                # Data for level 3<br>
+│   ├── instruction.txt           # The help/instructions text<br>
+│   └── high_score.txt            # Stores the persistent high score<br>
+├── screenshots/<br>
+│   ├── menu.png                  # Screenshot of the main menu<br>
+│   └── gameplay.png              # Screenshot of a level in progress<br>
+└── README.md                     # You're reading it!```<br>
 **Note:** A `.gitignore` file is used to exclude Visual Studio's temporary files (like the `.vs`, `Debug`, and `x64` folders) from the repository.
 
 ---
@@ -62,8 +62,9 @@ A clean repository is essential. This is the recommended file structure.
 **Main Menu**
 <img width="1366" height="725" alt="menu" src="https://github.com/user-attachments/assets/9c810faf-d8b2-4b63-b2f9-986b8d30120d" />
 
+
 **Gameplay in Action**
-<img width="769" height="519" alt="gameplay" src="https://github.com/user-attachments/assets/27840a01-4824-45e3-92d3-8c8c5a84b252" />
+<img width="1366" height="721" alt="gameplay" src="https://github.com/user-attachments/assets/13791718-1d1f-4afc-b425-970c59ed81e4" />
 
 ---
 
@@ -97,8 +98,8 @@ This project is designed for Windows and requires Visual Studio.
 
 ---
 
-### 🙋‍♂️ Author<br>
-**Muhammad Ashir**<br>  
+### 🙋‍♂️ Author
+**Muhammad Ashir**  
 Student of FAST-NUCES  
 For contributions or queries, feel free to connect on LinkedIn [LinkedIn/ashir-qayyum](https://www.linkedin.com/in/ashir-qayyum)
 
